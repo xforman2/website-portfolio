@@ -7,12 +7,12 @@ export const Projects = () => {
         <div className='project-container'>
             <ProjectCard
                 title="House Scout"
-                description="Discord Bot that helps you with notifications for new estates across more estate websites"
+                description="Discord Bot that helps you with notifications for new estates across multiple estate websites"
                 link="https://github.com/xforman2/HouseScout"
             />
             <ProjectCard
                 title="Darts Player"
-                description="Application that let's you keep your count when playing darts (currently without frontend just REST API)"
+                description="Application that let's you keep your count when playing darts (currently without frontend, just REST API)"
                 link="https://github.com/xforman2/DartsPlayer/tree/main/DartsPlayer"
             />
             <ProjectCard
