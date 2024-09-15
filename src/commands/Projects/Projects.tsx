@@ -17,7 +17,7 @@ export const Projects = () => {
             />
             <ProjectCard
                 title="Server Monitoring Tool"
-                description="Result of my bachelor thesis. Monitoring server usage of two servers withing fi.muni network"
+                description="Result of my bachelor thesis. Monitoring server usage of two servers within fi.muni network"
                 link="https://github.com/xforman2/monitoring-dashboard"
             />
             <ProjectCard
