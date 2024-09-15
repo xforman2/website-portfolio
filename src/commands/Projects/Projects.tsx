@@ -23,7 +23,7 @@ export const Projects = () => {
             <ProjectCard
                 title="This website :)"
                 description="My portfolio old terminal-like website"
-                link=""
+                link="https://github.com/xforman2/website-portfolio"
             />
         </div>
     );
