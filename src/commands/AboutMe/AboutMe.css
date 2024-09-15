@@ -1,0 +1,5 @@
+.wrap-container{
+    display: flex;
+    white-space: pre-wrap; 
+    word-wrap: break-word;
+}
